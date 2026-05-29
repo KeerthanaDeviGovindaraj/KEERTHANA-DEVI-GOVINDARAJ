@@ -1,15 +1,3 @@
-Here’s your cleaned, corrected, fully working final README version with:
-
-* fixed markdown hierarchy
-* cleaner spacing
-* working contribution graph
-* polished project sections
-* recruiter-friendly structure
-* no broken widgets
-* better visual consistency
-
-Just paste this directly into your `README.md`.
-
 <div align="center">
 
 # Hey, I'm Keerthana 👋
