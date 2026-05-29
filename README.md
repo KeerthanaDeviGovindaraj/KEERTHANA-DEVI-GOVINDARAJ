@@ -1,63 +1,186 @@
+<div align="center">
+
 # Hey, I'm Keerthana 👋
 
-MS Software Engineering · Northeastern University · Boston, MA
+### MS Software Engineering @ Northeastern University
 
-I'm a full-stack engineer who enjoys building things end-to-end — from designing REST APIs and 
-cloud infrastructure to shipping polished frontends. I care about systems that are secure, 
-scalable, and actually maintainable.
+### Full-Stack • Cloud • DevOps • ML
 
-Currently interning at FITA Academy building a production student management platform, and open 
-to SDE internships for Summer/Fall 2026.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer;Cloud-Native+Builder;AWS+%7C+FastAPI+%7C+React;Open+to+SDE+Internships+2026" />
+
+<br/>
+
+<a href="https://www.linkedin.com/in/keerthanadevig28062002/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://keerthanadevigportfolio.netlify.app">
+  <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:govindaraj.ke@northeastern.edu">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=KeerthanaDeviGovindaraj&label=Profile%20Views&color=0e75b6&style=flat" />
+
+</div>
 
 ---
 
-## 🔨 What I'm building
+# 💫 About Me
 
-### [Cloud-Native Serverless Web Application](https://github.com/keerthanadevig28)
+I'm a full-stack engineer who enjoys building systems end-to-end — from designing REST APIs and cloud infrastructure to shipping polished frontend experiences.
+
+I care about building software that is:
+
+* Secure
+* Scalable
+* Maintainable
+* Production-ready
+
+### Current Focus
+
+* 🏢 SWE Intern @ FITA Academy
+* ☁️ Building cloud-native infrastructure projects
+* 📚 Exploring distributed systems & advanced AWS
+* 🎯 Open to SDE internships for Summer/Fall 2026
+
+---
+
+# 🚀 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,redux,nodejs,python,fastapi,django,spring,java,ts,js,aws,docker,terraform,postgres,mongodb,mysql,tensorflow,pytorch,opencv,git,github,linux&perline=9" />
+
+</div>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KeerthanaDeviGovindaraj&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeerthanaDeviGovindaraj&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=KeerthanaDeviGovindaraj&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔨 Featured Projects
+
+## ☁️ Cloud-Native Serverless Web Application
+
 `Python` `FastAPI` `PostgreSQL` `Terraform` `AWS` `GitHub Actions`
 
-Full IaC deployment — VPC, autoscaling, multi-AZ RDS, all written in Terraform, nothing clicked 
-in the console. Serverless email verification via SNS → Lambda → DynamoDB with 1-minute token 
-expiry. Separate KMS keys per resource with 90-day rotation, secrets pulled from Secrets Manager 
-at boot.
+* Full Infrastructure-as-Code deployment using Terraform
+* Multi-AZ RDS + autoscaling infrastructure
+* SNS → Lambda → DynamoDB email verification pipeline
+* Separate KMS keys per resource with rotation
+* Secrets pulled securely from AWS Secrets Manager
 
----
+### 📌 Highlights
 
-### [GLIMPSE — AI Sports Commentary Platform](https://github.com/KeerthanaDeviGovindaraj/GLIMPSE)
-`React.js` `Redux` `Node.js` `MongoDB` `Google Gemini API` `Vercel`
-
-Built with a team of 4. Led frontend (15+ components, Redux state management) and integrated 
-Gemini API for auto-generated commentary — reduced manual effort by 80%. Also designed MongoDB 
-schema and set up CI/CD via Vercel.
-
----
-
-### [Eye Tracking Based ASD Diagnosis](https://github.com/KeerthanaDeviGovindaraj/Autism_Eye)
-`Python` `CNN` `TensorFlow` `PCA` `OpenCV`
-
-CNN + PCA pipeline for early ASD detection from eye-tracking data. Transfer learning gave 20% 
-accuracy improvement over baseline across 10,000+ samples. Published as a research paper. 
-
----
-
-## 🧰 Tech I work with
-
-**Frontend:** React.js · Next.js · Angular · Vue.js · Redux  
-**Backend:** Node.js · FastAPI · Spring Boot · Django · REST APIs  
-**Cloud & DevOps:** AWS (EC2, RDS, S3, Lambda, SNS, DynamoDB, KMS) · Terraform · Docker · GitHub Actions  
-**Databases:** PostgreSQL · MongoDB · MySQL  
-**ML:** TensorFlow · PyTorch · Scikit-Learn · OpenCV  
-**Languages:** Python · Java · TypeScript · JavaScript · C++
-
----
-## 🐍 Contribution Graph
+* Zero manual AWS console setup
+* Production-style cloud architecture
+* Secure-by-default infrastructure
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KeerthanaDeviGovindaraj/KeerthanaDeviGovindaraj/output/github-contribution-grid-snake.svg" />
+  <a href="https://github.com/keerthanadevig28">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=keerthanadevig28&repo=webapp&theme=tokyonight&hide_border=true"/>
+  </a>
 </p>
 
-## 📬 Let's connect
+---
 
-[LinkedIn](https://www.linkedin.com/in/keerthanadevig28062002/) 
-[Portfolio](https://keerthanadevigportfolio.netlify.app)
-Mail: govindaraj.ke@northeastern.edu
+## ⚽ GLIMPSE — AI Sports Commentary Platform
+
+`React.js` `Redux` `Node.js` `MongoDB` `Gemini API` `Vercel`
+
+* Built with a team of 4 engineers
+* Led frontend architecture and Redux state management
+* Integrated Gemini API for AI-generated commentary
+* Reduced manual commentary effort by 80%
+* Designed MongoDB schema and CI/CD deployment pipeline
+
+<p align="center">
+  <a href="https://github.com/KeerthanaDeviGovindaraj/GLIMPSE">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KeerthanaDeviGovindaraj&repo=GLIMPSE&theme=tokyonight&hide_border=true"/>
+  </a>
+</p>
+
+---
+
+## 🧠 Eye Tracking Based ASD Diagnosis
+
+`Python` `TensorFlow` `CNN` `PCA` `OpenCV`
+
+* CNN + PCA pipeline for ASD detection
+* Trained on 10,000+ eye-tracking samples
+* Transfer learning improved accuracy by 20%
+* Published as a research paper
+
+<p align="center">
+  <a href="https://github.com/KeerthanaDeviGovindaraj/Autism_Eye">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KeerthanaDeviGovindaraj&repo=Autism_Eye&theme=tokyonight&hide_border=true"/>
+  </a>
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KeerthanaDeviGovindaraj&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KeerthanaDeviGovindaraj/KeerthanaDeviGovindaraj/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+# 🌱 Currently Exploring
+
+* Kubernetes & Helm
+* Distributed Systems
+* Event-Driven Architectures
+* AWS Networking & Security
+* LLM-powered applications
+
+---
+
+# 📬 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/keerthanadevig28062002/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:govindaraj.ke@northeastern.edu">
+  <img src="https://img.shields.io/badge/Email-Reach%20Out-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://keerthanadevigportfolio.netlify.app">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel"/>
+</a>
+
+</div>
