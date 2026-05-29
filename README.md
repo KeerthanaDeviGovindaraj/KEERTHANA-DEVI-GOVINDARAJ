@@ -23,7 +23,7 @@ at boot.
 
 ---
 
-### [GLIMPSE — AI Sports Commentary Platform]((https://github.com/KeerthanaDeviGovindaraj/GLIMPSE)
+### [GLIMPSE — AI Sports Commentary Platform](https://github.com/KeerthanaDeviGovindaraj/GLIMPSE)
 `React.js` `Redux` `Node.js` `MongoDB` `Google Gemini API` `Vercel`
 
 Built with a team of 4. Led frontend (15+ components, Redux state management) and integrated 
@@ -32,7 +32,7 @@ schema and set up CI/CD via Vercel.
 
 ---
 
-### [Eye Tracking Based ASD Diagnosis](https://github.com/KeerthanaDeviGovindaraj/Autism_Eye))
+### [Eye Tracking Based ASD Diagnosis](https://github.com/KeerthanaDeviGovindaraj/Autism_Eye)
 `Python` `CNN` `TensorFlow` `PCA` `OpenCV`
 
 CNN + PCA pipeline for early ASD detection from eye-tracking data. Transfer learning gave 20% 
