@@ -70,26 +70,6 @@ I care about building software that is:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=KeerthanaDeviGovindaraj&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeerthanaDeviGovindaraj&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=KeerthanaDeviGovindaraj&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 ## 🔨 Featured Projects
 
 ### ☁️ Cloud-Native Serverless Web Application
@@ -131,7 +111,7 @@ I care about building software that is:
 <div align="center">
 
 <a href="https://github.com/KeerthanaDeviGovindaraj/GLIMPSE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KeerthanaDeviGovindaraj&repo=GLIMPSE&theme=tokyonight&hide_border=true"/>
+  <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </div>
